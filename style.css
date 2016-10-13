@@ -1,0 +1,29 @@
+h1 {
+  width: 100%;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+lesson-hider {
+  display: flex;
+  flex-direction: row;
+  font-size: 55px;
+  justify-content: space-between;
+  padding-left: 10%;
+}
+
+button#btn {
+  display: flex;
+  margin-right: 10%;
+  justify-content: center;
+  height: 50px;
+  width: 40%;
+  background-color: gray;
+}
+
+button#btn span {
+  display: flex;
+  font-size: 35px;
+  color: white;
+}
